@@ -25,13 +25,11 @@
       font-size: 30px;
       border: 2px solid black;
     }
-  </style>
+  </style>  
 </head>
 <body>
 
     <div class="boks"> jeg fyller hele skjermen!</div>
-    <img src="" alt="" class="src">
-
     <img src="bildesara.jpg"width=200 alt="">
 </body>
 </html>
